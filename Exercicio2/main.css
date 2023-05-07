@@ -32,8 +32,8 @@ header li{
 
 .container h2{
     margin-bottom: 20px;
+    
 }
-
 
 .container .articles article img{
     height: 200px;
@@ -63,7 +63,59 @@ header li{
 }
 
 .articles article h3{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#titulo-sessao-tec{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color:rgb(182, 255, 231);
+    width: fit-content;
+}
+
+#titulo-sessao-esportes{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: rgb(227, 255, 184);
+    width: fit-content;
+}
+
+#titulo-sessao-saude{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: #7aa6ff;
+    width: fit-content;
+}
+
+#titulo-sessao-entretenimento{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color:  rgb(255, 133, 133);
+    width: fit-content;
+}
+
+#editorias-tecnologia{
+    color: rgb(182, 255, 231);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+#editorias-esportes{
+    color: rgb(227, 255, 184) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+#editorias-saude{
+    color:#7aa6ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+#editorias-entretenimento{
+    color:rgb(255, 133, 133);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
 }
 
 .articles article{
@@ -84,4 +136,6 @@ header li{
 .articles img{
     
 }
+
+
 
